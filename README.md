@@ -23,7 +23,7 @@ Disponibilizar o link do github do projeto bem descrito quanto às funcionalidad
  
 ## ⚙️ LocaBike - Projeto Final / Repositório 
 
-- [Repositório do Projeto Final](https://github.com/Paulo-Ultra/mjv-school-java/tree/main/MJV%20-%20Projeto%20Final)
+- [Repositório do Projeto Final](https://github.com/Paulo-Ultra/MJV-Projeto-Final)
 
   
 
@@ -65,12 +65,12 @@ mvn clean install
 
 ### Diagrama de Classe
 <p align="center">
-    <img align="center" width="700" src="https://github.com/Paulo-Ultra/mjv-school-java/blob/main/MJV%20-%20Projeto%20Final/Diagrama%20de%20Classe.jpeg" style="max-width:100%;">
+    <img align="center" width="700" src="https://github.com/Paulo-Ultra/MJV-Projeto-Final/blob/main/MJV%20-%20Projeto%20Final/Diagrama%20de%20Classe.jpeg" style="max-width:100%;">
 </p>
 
 ### Diagrama do Banco de Dados
 <p align="center">
-    <img align="center" width="700" src="https://github.com/Paulo-Ultra/mjv-school-java/blob/main/MJV%20-%20Projeto%20Final/Diagrama%20Banco%20de%20Dados.jpg" style="max-width:100%;">
+    <img align="center" width="700" src="https://github.com/Paulo-Ultra/MJV-Projeto-Final/blob/main/MJV%20-%20Projeto%20Final/Diagrama%20Banco%20de%20Dados.jpg" style="max-width:100%;">
 </p>
 
 ## 🌐 Endpoints
